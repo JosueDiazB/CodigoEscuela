@@ -1,0 +1,55 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+   #encabezado{
+    width: 100%;
+    margin: 0 auto;
+    padding: 5px 0px 5px 0px;
+  }
+
+  #cuerpo{
+    height: 20%;
+    margin: 0 auto;
+    padding: 50px 50px 50px 50px;
+    text-align:center;
+    vertical-align: middle;
+  }
+
+  div {
+    float: left;
+    text-align:center;
+    vertical-align: middle;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+  }
+  
+  
+  h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: #800040;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  #carrusel{
+    padding: 10px 10px 10px 10px;
+    width: auto;
+    height: auto;
+    text-align:center;
+    vertical-align: middle;
+  }
+  
+ 
+  
+ 
+
+ 
